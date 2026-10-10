@@ -1,0 +1,6 @@
+build/
+brightwash.db
+*.db-shm
+*.db-wal
+.env
+.vscode/
