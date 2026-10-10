@@ -1,5 +1,4 @@
 # BrightWash Laundry Management System
-
 BrightWash is a sample laundry-shop management system for staff and customers. Customers can register, log in, and manage only their own laundry orders. Admins can view and manage all customers' orders. It uses a C++ REST API, SQLite persistence, and an HTML/CSS/JavaScript frontend.
 
 ## Problem being solved
@@ -20,7 +19,7 @@ Paper-based order tracking can lead to misplaced order details, unclear status u
 - CMake
 
 ## AI disclosure
-AI tool used: **ChatGPT (OpenAI)** — used to help plan the project structure, draft starter code, and write setup/documentation guidance. The student should review, test, and be able to explain every part of the code before submission.
+AI tool used: **ChatGPT (OpenAI)** — used to help plan the project structure, draft starter code, and write setup/documentation guidance. 
 
 ## Requirements
 - A C++17 compiler
